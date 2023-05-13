@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ace0f9;
+  height: 450vh;
+}
+.ii {
+  width: 20px;
+  height: 20px;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+}
+.cen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

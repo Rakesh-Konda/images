@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.ull {
+  list-style-type: none;
+  display: flex;
+}
+.lii {
+  color: #7b8794;
+  font-weight: bold;
+  padding: 10px;
+}
+.mid {
+}
